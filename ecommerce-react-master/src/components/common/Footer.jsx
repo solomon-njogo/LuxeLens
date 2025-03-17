@@ -33,7 +33,7 @@ const Footer = () => {
         <strong>
           <span>
             Get this project &nbsp;
-            <a href="https://github.com/jgudo/ecommerce-react">HERE</a>
+            <a href="https://github.com/solomon-njogo/LuxeLens.git">HERE</a>
           </span>
         </strong>
       </div>
